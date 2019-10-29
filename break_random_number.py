@@ -12,7 +12,6 @@ some_variable = random.randint(1, 10)
 
 def main():
     # This function breaks loop when random number guessed correctly
-    counter = 0
 
     # input
     print("Quick! Pick a number between 0 and 10")
